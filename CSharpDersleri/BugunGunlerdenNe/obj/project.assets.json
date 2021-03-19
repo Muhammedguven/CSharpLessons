@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mguve\\source\\repos\\CSharpDersleri\\BugunGunlerdenNe\\BugunGunlerdenNe.csproj",
+      "projectUniqueName": "C:\\Users\\mguve\\Documents\\GitHub\\CSharpLessons\\CSharpDersleri\\BugunGunlerdenNe\\BugunGunlerdenNe.csproj",
       "projectName": "BugunGunlerdenNe",
-      "projectPath": "C:\\Users\\mguve\\source\\repos\\CSharpDersleri\\BugunGunlerdenNe\\BugunGunlerdenNe.csproj",
+      "projectPath": "C:\\Users\\mguve\\Documents\\GitHub\\CSharpLessons\\CSharpDersleri\\BugunGunlerdenNe\\BugunGunlerdenNe.csproj",
       "packagesPath": "C:\\Users\\mguve\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mguve\\source\\repos\\CSharpDersleri\\BugunGunlerdenNe\\obj\\",
+      "outputPath": "C:\\Users\\mguve\\Documents\\GitHub\\CSharpLessons\\CSharpDersleri\\BugunGunlerdenNe\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"

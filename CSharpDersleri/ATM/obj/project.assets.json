@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mguve\\source\\repos\\CSharpDersleri\\ATM\\ATM.csproj",
+      "projectUniqueName": "C:\\Users\\mguve\\Documents\\GitHub\\CSharpLessons\\CSharpDersleri\\ATM\\ATM.csproj",
       "projectName": "ATM",
-      "projectPath": "C:\\Users\\mguve\\source\\repos\\CSharpDersleri\\ATM\\ATM.csproj",
+      "projectPath": "C:\\Users\\mguve\\Documents\\GitHub\\CSharpLessons\\CSharpDersleri\\ATM\\ATM.csproj",
       "packagesPath": "C:\\Users\\mguve\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mguve\\source\\repos\\CSharpDersleri\\ATM\\obj\\",
+      "outputPath": "C:\\Users\\mguve\\Documents\\GitHub\\CSharpLessons\\CSharpDersleri\\ATM\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mguve\\source\\repos\\CSharpDersleri\\EnBuyukSayi\\EnBuyukSayi.csproj": {}
+    "C:\\Users\\mguve\\Documents\\GitHub\\CSharpLessons\\CSharpDersleri\\EnBuyukSayi\\EnBuyukSayi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mguve\\source\\repos\\CSharpDersleri\\EnBuyukSayi\\EnBuyukSayi.csproj": {
+    "C:\\Users\\mguve\\Documents\\GitHub\\CSharpLessons\\CSharpDersleri\\EnBuyukSayi\\EnBuyukSayi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mguve\\source\\repos\\CSharpDersleri\\EnBuyukSayi\\EnBuyukSayi.csproj",
+        "projectUniqueName": "C:\\Users\\mguve\\Documents\\GitHub\\CSharpLessons\\CSharpDersleri\\EnBuyukSayi\\EnBuyukSayi.csproj",
         "projectName": "EnBuyukSayi",
-        "projectPath": "C:\\Users\\mguve\\source\\repos\\CSharpDersleri\\EnBuyukSayi\\EnBuyukSayi.csproj",
+        "projectPath": "C:\\Users\\mguve\\Documents\\GitHub\\CSharpLessons\\CSharpDersleri\\EnBuyukSayi\\EnBuyukSayi.csproj",
         "packagesPath": "C:\\Users\\mguve\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mguve\\source\\repos\\CSharpDersleri\\EnBuyukSayi\\obj\\",
+        "outputPath": "C:\\Users\\mguve\\Documents\\GitHub\\CSharpLessons\\CSharpDersleri\\EnBuyukSayi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"

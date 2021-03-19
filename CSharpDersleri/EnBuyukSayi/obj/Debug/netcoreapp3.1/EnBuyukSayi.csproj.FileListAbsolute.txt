@@ -1,0 +1,13 @@
+C:\Users\mguve\Documents\GitHub\CSharpLessons\CSharpDersleri\EnBuyukSayi\bin\Debug\netcoreapp3.1\EnBuyukSayi.exe
+C:\Users\mguve\Documents\GitHub\CSharpLessons\CSharpDersleri\EnBuyukSayi\bin\Debug\netcoreapp3.1\EnBuyukSayi.deps.json
+C:\Users\mguve\Documents\GitHub\CSharpLessons\CSharpDersleri\EnBuyukSayi\bin\Debug\netcoreapp3.1\EnBuyukSayi.runtimeconfig.json
+C:\Users\mguve\Documents\GitHub\CSharpLessons\CSharpDersleri\EnBuyukSayi\bin\Debug\netcoreapp3.1\EnBuyukSayi.runtimeconfig.dev.json
+C:\Users\mguve\Documents\GitHub\CSharpLessons\CSharpDersleri\EnBuyukSayi\bin\Debug\netcoreapp3.1\EnBuyukSayi.dll
+C:\Users\mguve\Documents\GitHub\CSharpLessons\CSharpDersleri\EnBuyukSayi\bin\Debug\netcoreapp3.1\EnBuyukSayi.pdb
+C:\Users\mguve\Documents\GitHub\CSharpLessons\CSharpDersleri\EnBuyukSayi\obj\Debug\netcoreapp3.1\EnBuyukSayi.csprojAssemblyReference.cache
+C:\Users\mguve\Documents\GitHub\CSharpLessons\CSharpDersleri\EnBuyukSayi\obj\Debug\netcoreapp3.1\EnBuyukSayi.AssemblyInfoInputs.cache
+C:\Users\mguve\Documents\GitHub\CSharpLessons\CSharpDersleri\EnBuyukSayi\obj\Debug\netcoreapp3.1\EnBuyukSayi.AssemblyInfo.cs
+C:\Users\mguve\Documents\GitHub\CSharpLessons\CSharpDersleri\EnBuyukSayi\obj\Debug\netcoreapp3.1\EnBuyukSayi.csproj.CoreCompileInputs.cache
+C:\Users\mguve\Documents\GitHub\CSharpLessons\CSharpDersleri\EnBuyukSayi\obj\Debug\netcoreapp3.1\EnBuyukSayi.dll
+C:\Users\mguve\Documents\GitHub\CSharpLessons\CSharpDersleri\EnBuyukSayi\obj\Debug\netcoreapp3.1\EnBuyukSayi.pdb
+C:\Users\mguve\Documents\GitHub\CSharpLessons\CSharpDersleri\EnBuyukSayi\obj\Debug\netcoreapp3.1\EnBuyukSayi.genruntimeconfig.cache

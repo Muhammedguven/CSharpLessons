@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mguve\\source\\repos\\CSharpDersleri\\HesapMakinasi\\HesapMakinasi.csproj": {}
+    "C:\\Users\\mguve\\Documents\\GitHub\\CSharpLessons\\CSharpDersleri\\HesapMakinasi\\HesapMakinasi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mguve\\source\\repos\\CSharpDersleri\\HesapMakinasi\\HesapMakinasi.csproj": {
+    "C:\\Users\\mguve\\Documents\\GitHub\\CSharpLessons\\CSharpDersleri\\HesapMakinasi\\HesapMakinasi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mguve\\source\\repos\\CSharpDersleri\\HesapMakinasi\\HesapMakinasi.csproj",
+        "projectUniqueName": "C:\\Users\\mguve\\Documents\\GitHub\\CSharpLessons\\CSharpDersleri\\HesapMakinasi\\HesapMakinasi.csproj",
         "projectName": "HesapMakinasi",
-        "projectPath": "C:\\Users\\mguve\\source\\repos\\CSharpDersleri\\HesapMakinasi\\HesapMakinasi.csproj",
+        "projectPath": "C:\\Users\\mguve\\Documents\\GitHub\\CSharpLessons\\CSharpDersleri\\HesapMakinasi\\HesapMakinasi.csproj",
         "packagesPath": "C:\\Users\\mguve\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mguve\\source\\repos\\CSharpDersleri\\HesapMakinasi\\obj\\",
+        "outputPath": "C:\\Users\\mguve\\Documents\\GitHub\\CSharpLessons\\CSharpDersleri\\HesapMakinasi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"

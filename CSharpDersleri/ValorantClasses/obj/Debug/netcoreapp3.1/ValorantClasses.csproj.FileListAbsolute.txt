@@ -1,0 +1,13 @@
+C:\Users\mguve\Documents\GitHub\CSharpLessons\CSharpDersleri\ValorantClasses\bin\Debug\netcoreapp3.1\ValorantClasses.exe
+C:\Users\mguve\Documents\GitHub\CSharpLessons\CSharpDersleri\ValorantClasses\bin\Debug\netcoreapp3.1\ValorantClasses.deps.json
+C:\Users\mguve\Documents\GitHub\CSharpLessons\CSharpDersleri\ValorantClasses\bin\Debug\netcoreapp3.1\ValorantClasses.runtimeconfig.json
+C:\Users\mguve\Documents\GitHub\CSharpLessons\CSharpDersleri\ValorantClasses\bin\Debug\netcoreapp3.1\ValorantClasses.runtimeconfig.dev.json
+C:\Users\mguve\Documents\GitHub\CSharpLessons\CSharpDersleri\ValorantClasses\bin\Debug\netcoreapp3.1\ValorantClasses.dll
+C:\Users\mguve\Documents\GitHub\CSharpLessons\CSharpDersleri\ValorantClasses\bin\Debug\netcoreapp3.1\ValorantClasses.pdb
+C:\Users\mguve\Documents\GitHub\CSharpLessons\CSharpDersleri\ValorantClasses\obj\Debug\netcoreapp3.1\ValorantClasses.csprojAssemblyReference.cache
+C:\Users\mguve\Documents\GitHub\CSharpLessons\CSharpDersleri\ValorantClasses\obj\Debug\netcoreapp3.1\ValorantClasses.AssemblyInfoInputs.cache
+C:\Users\mguve\Documents\GitHub\CSharpLessons\CSharpDersleri\ValorantClasses\obj\Debug\netcoreapp3.1\ValorantClasses.AssemblyInfo.cs
+C:\Users\mguve\Documents\GitHub\CSharpLessons\CSharpDersleri\ValorantClasses\obj\Debug\netcoreapp3.1\ValorantClasses.csproj.CoreCompileInputs.cache
+C:\Users\mguve\Documents\GitHub\CSharpLessons\CSharpDersleri\ValorantClasses\obj\Debug\netcoreapp3.1\ValorantClasses.dll
+C:\Users\mguve\Documents\GitHub\CSharpLessons\CSharpDersleri\ValorantClasses\obj\Debug\netcoreapp3.1\ValorantClasses.pdb
+C:\Users\mguve\Documents\GitHub\CSharpLessons\CSharpDersleri\ValorantClasses\obj\Debug\netcoreapp3.1\ValorantClasses.genruntimeconfig.cache

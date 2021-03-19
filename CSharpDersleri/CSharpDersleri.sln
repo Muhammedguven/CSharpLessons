@@ -3,21 +3,23 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31105.61
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnBuyukSayi", "EnBuyukSayi\EnBuyukSayi.csproj", "{A8CDD5F9-6CC3-44BB-9B71-79233267F87E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EnBuyukSayi", "EnBuyukSayi\EnBuyukSayi.csproj", "{A8CDD5F9-6CC3-44BB-9B71-79233267F87E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarpimTablosu", "CarpimTablosu\CarpimTablosu.csproj", "{00FCBDC8-6822-4F59-9FF2-0AB0CEE3DE05}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CarpimTablosu", "CarpimTablosu\CarpimTablosu.csproj", "{00FCBDC8-6822-4F59-9FF2-0AB0CEE3DE05}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BugunGunlerdenNe", "BugunGunlerdenNe\BugunGunlerdenNe.csproj", "{2EEBB973-D0C0-46B9-BB62-04C79210C2E2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BugunGunlerdenNe", "BugunGunlerdenNe\BugunGunlerdenNe.csproj", "{2EEBB973-D0C0-46B9-BB62-04C79210C2E2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ATM", "ATM\ATM.csproj", "{EE788E15-AF09-4FF7-AEC3-50506AB14C71}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ATM", "ATM\ATM.csproj", "{EE788E15-AF09-4FF7-AEC3-50506AB14C71}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HesapMakinasi", "HesapMakinasi\HesapMakinasi.csproj", "{CEC02166-C19F-40E4-A141-97678C63C264}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HesapMakinasi", "HesapMakinasi\HesapMakinasi.csproj", "{CEC02166-C19F-40E4-A141-97678C63C264}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Login", "Login\Login.csproj", "{CB65CE41-3E38-45AD-9B37-FC4A7B519210}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Login", "Login\Login.csproj", "{CB65CE41-3E38-45AD-9B37-FC4A7B519210}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotUygulamasi", "NotUygulamasi\NotUygulamasi.csproj", "{DDF83C2F-9929-4AD4-809D-4D68B5D407FF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NotUygulamasi", "NotUygulamasi\NotUygulamasi.csproj", "{DDF83C2F-9929-4AD4-809D-4D68B5D407FF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SayiTahminOyunu", "SayiTahminOyunu\SayiTahminOyunu.csproj", "{0F38FAB5-19AF-44B4-A9F9-4C853757ADD4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SayiTahminOyunu", "SayiTahminOyunu\SayiTahminOyunu.csproj", "{0F38FAB5-19AF-44B4-A9F9-4C853757ADD4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValorantClasses", "ValorantClasses\ValorantClasses.csproj", "{0D1148AB-9E63-4EB1-BF41-8215B5E69E5D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{0F38FAB5-19AF-44B4-A9F9-4C853757ADD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0F38FAB5-19AF-44B4-A9F9-4C853757ADD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0F38FAB5-19AF-44B4-A9F9-4C853757ADD4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D1148AB-9E63-4EB1-BF41-8215B5E69E5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D1148AB-9E63-4EB1-BF41-8215B5E69E5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D1148AB-9E63-4EB1-BF41-8215B5E69E5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D1148AB-9E63-4EB1-BF41-8215B5E69E5D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
