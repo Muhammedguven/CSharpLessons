@@ -9,6 +9,7 @@ namespace ValorantClasses
         {
             
             Database veritabanım = new Database();
+            
             while (true)
             {
                 Menu();

@@ -9,6 +9,7 @@ namespace ValorantClasses
     public class Database
     {
         //List<Part> parts = new List<Part>();
+      
         List<Gun> guns = new List<Gun>();
         List<Hero> heros = new List<Hero>();
         List<Insan> players = new List<Insan>();
@@ -20,6 +21,7 @@ namespace ValorantClasses
             heros.Add(new Hero() { HeroName = "SAGE", HeroSkin = "UÇAN SKİN", Skill1 = "Can Basma", Skill2 = "Yeniden Doğurma" });
             players.Add(new Insan() { Id = 1839, UserName = "selamkoc", Coin = 0 });
             players.Add(new Insan() { Id = 1534, UserName = "Kolaj", Coin = 50 });
+          
         }
         public void SilahlariGoster()
         {

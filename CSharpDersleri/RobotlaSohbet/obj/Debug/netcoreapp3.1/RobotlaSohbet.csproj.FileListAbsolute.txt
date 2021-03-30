@@ -1,0 +1,12 @@
+C:\Users\mguve\Documents\GitHub\CSharpLessons\CSharpDersleri\RobotlaSohbet\bin\Debug\netcoreapp3.1\RobotlaSohbet.exe
+C:\Users\mguve\Documents\GitHub\CSharpLessons\CSharpDersleri\RobotlaSohbet\bin\Debug\netcoreapp3.1\RobotlaSohbet.deps.json
+C:\Users\mguve\Documents\GitHub\CSharpLessons\CSharpDersleri\RobotlaSohbet\bin\Debug\netcoreapp3.1\RobotlaSohbet.runtimeconfig.json
+C:\Users\mguve\Documents\GitHub\CSharpLessons\CSharpDersleri\RobotlaSohbet\bin\Debug\netcoreapp3.1\RobotlaSohbet.runtimeconfig.dev.json
+C:\Users\mguve\Documents\GitHub\CSharpLessons\CSharpDersleri\RobotlaSohbet\bin\Debug\netcoreapp3.1\RobotlaSohbet.dll
+C:\Users\mguve\Documents\GitHub\CSharpLessons\CSharpDersleri\RobotlaSohbet\bin\Debug\netcoreapp3.1\RobotlaSohbet.pdb
+C:\Users\mguve\Documents\GitHub\CSharpLessons\CSharpDersleri\RobotlaSohbet\obj\Debug\netcoreapp3.1\RobotlaSohbet.AssemblyInfoInputs.cache
+C:\Users\mguve\Documents\GitHub\CSharpLessons\CSharpDersleri\RobotlaSohbet\obj\Debug\netcoreapp3.1\RobotlaSohbet.AssemblyInfo.cs
+C:\Users\mguve\Documents\GitHub\CSharpLessons\CSharpDersleri\RobotlaSohbet\obj\Debug\netcoreapp3.1\RobotlaSohbet.csproj.CoreCompileInputs.cache
+C:\Users\mguve\Documents\GitHub\CSharpLessons\CSharpDersleri\RobotlaSohbet\obj\Debug\netcoreapp3.1\RobotlaSohbet.dll
+C:\Users\mguve\Documents\GitHub\CSharpLessons\CSharpDersleri\RobotlaSohbet\obj\Debug\netcoreapp3.1\RobotlaSohbet.pdb
+C:\Users\mguve\Documents\GitHub\CSharpLessons\CSharpDersleri\RobotlaSohbet\obj\Debug\netcoreapp3.1\RobotlaSohbet.genruntimeconfig.cache

@@ -6,7 +6,7 @@ namespace ValorantClasses.Models
 {
     public class Gun
     {
-        public string GunName { get; set; }
+        public string GunName { get; set; }//property -->özellik
         public int Bullets { get; set; }
         public string Color { get; set; }
     }

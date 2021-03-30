@@ -1,0 +1,12 @@
+C:\Users\mguve\Documents\GitHub\CSharpLessons\CSharpDersleri\ListsAndClasses\bin\Debug\netcoreapp3.1\ListsAndClasses.exe
+C:\Users\mguve\Documents\GitHub\CSharpLessons\CSharpDersleri\ListsAndClasses\bin\Debug\netcoreapp3.1\ListsAndClasses.deps.json
+C:\Users\mguve\Documents\GitHub\CSharpLessons\CSharpDersleri\ListsAndClasses\bin\Debug\netcoreapp3.1\ListsAndClasses.runtimeconfig.json
+C:\Users\mguve\Documents\GitHub\CSharpLessons\CSharpDersleri\ListsAndClasses\bin\Debug\netcoreapp3.1\ListsAndClasses.runtimeconfig.dev.json
+C:\Users\mguve\Documents\GitHub\CSharpLessons\CSharpDersleri\ListsAndClasses\bin\Debug\netcoreapp3.1\ListsAndClasses.dll
+C:\Users\mguve\Documents\GitHub\CSharpLessons\CSharpDersleri\ListsAndClasses\bin\Debug\netcoreapp3.1\ListsAndClasses.pdb
+C:\Users\mguve\Documents\GitHub\CSharpLessons\CSharpDersleri\ListsAndClasses\obj\Debug\netcoreapp3.1\ListsAndClasses.AssemblyInfoInputs.cache
+C:\Users\mguve\Documents\GitHub\CSharpLessons\CSharpDersleri\ListsAndClasses\obj\Debug\netcoreapp3.1\ListsAndClasses.AssemblyInfo.cs
+C:\Users\mguve\Documents\GitHub\CSharpLessons\CSharpDersleri\ListsAndClasses\obj\Debug\netcoreapp3.1\ListsAndClasses.csproj.CoreCompileInputs.cache
+C:\Users\mguve\Documents\GitHub\CSharpLessons\CSharpDersleri\ListsAndClasses\obj\Debug\netcoreapp3.1\ListsAndClasses.dll
+C:\Users\mguve\Documents\GitHub\CSharpLessons\CSharpDersleri\ListsAndClasses\obj\Debug\netcoreapp3.1\ListsAndClasses.pdb
+C:\Users\mguve\Documents\GitHub\CSharpLessons\CSharpDersleri\ListsAndClasses\obj\Debug\netcoreapp3.1\ListsAndClasses.genruntimeconfig.cache

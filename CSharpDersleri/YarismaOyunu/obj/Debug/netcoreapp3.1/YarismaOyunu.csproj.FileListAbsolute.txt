@@ -1,0 +1,12 @@
+C:\Users\mguve\Documents\GitHub\CSharpLessons\CSharpDersleri\YarismaOyunu\bin\Debug\netcoreapp3.1\YarismaOyunu.exe
+C:\Users\mguve\Documents\GitHub\CSharpLessons\CSharpDersleri\YarismaOyunu\bin\Debug\netcoreapp3.1\YarismaOyunu.deps.json
+C:\Users\mguve\Documents\GitHub\CSharpLessons\CSharpDersleri\YarismaOyunu\bin\Debug\netcoreapp3.1\YarismaOyunu.runtimeconfig.json
+C:\Users\mguve\Documents\GitHub\CSharpLessons\CSharpDersleri\YarismaOyunu\bin\Debug\netcoreapp3.1\YarismaOyunu.runtimeconfig.dev.json
+C:\Users\mguve\Documents\GitHub\CSharpLessons\CSharpDersleri\YarismaOyunu\bin\Debug\netcoreapp3.1\YarismaOyunu.dll
+C:\Users\mguve\Documents\GitHub\CSharpLessons\CSharpDersleri\YarismaOyunu\bin\Debug\netcoreapp3.1\YarismaOyunu.pdb
+C:\Users\mguve\Documents\GitHub\CSharpLessons\CSharpDersleri\YarismaOyunu\obj\Debug\netcoreapp3.1\YarismaOyunu.AssemblyInfoInputs.cache
+C:\Users\mguve\Documents\GitHub\CSharpLessons\CSharpDersleri\YarismaOyunu\obj\Debug\netcoreapp3.1\YarismaOyunu.AssemblyInfo.cs
+C:\Users\mguve\Documents\GitHub\CSharpLessons\CSharpDersleri\YarismaOyunu\obj\Debug\netcoreapp3.1\YarismaOyunu.csproj.CoreCompileInputs.cache
+C:\Users\mguve\Documents\GitHub\CSharpLessons\CSharpDersleri\YarismaOyunu\obj\Debug\netcoreapp3.1\YarismaOyunu.dll
+C:\Users\mguve\Documents\GitHub\CSharpLessons\CSharpDersleri\YarismaOyunu\obj\Debug\netcoreapp3.1\YarismaOyunu.pdb
+C:\Users\mguve\Documents\GitHub\CSharpLessons\CSharpDersleri\YarismaOyunu\obj\Debug\netcoreapp3.1\YarismaOyunu.genruntimeconfig.cache
